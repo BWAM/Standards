@@ -1,4 +1,4 @@
-# Author: Charles Stoll
+# Author: Charles Stoll & Alene Onion
 # Date: 2018.01.08
 #
 # Script designed to identify water quality violations 
